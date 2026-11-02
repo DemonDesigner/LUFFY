@@ -113,3 +113,4 @@ LUFFY/
 - [ ] **luffy/verl/verl/protocol.py:169** - (zhangchi.usc1992) add consistency check
 - [ ] **luffy/verl/verl/protocol.py:265** - we can actually lift this restriction if needed
 - [ ] **luffy/verl/verl/protocol.py:351** - (zhangchi.usc1992) whether to copy
+- [ ] **luffy/verl/verl/single_controller/ray/base.py:439** - create a class with customizable name
